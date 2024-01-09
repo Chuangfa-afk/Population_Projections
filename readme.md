@@ -38,7 +38,7 @@ Follow these steps within the Jupyter Notebook:
 
 - **Python**: Primary programming language for analysis and visualization.
 - **Jupyter Notebook**: Interactive computational environment.
-- **Visualization Libraries**: Python libraries for creating line charts, choropleth maps, and tables (e.g., Matplotlib, Plotly).
+- **Visualization Libraries**: Python libraries for creating line charts, choropleth maps, and tables: Matplotlib, Plotly, Pandas
 
 ## Authors
 
