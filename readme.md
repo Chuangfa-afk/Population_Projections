@@ -29,6 +29,3 @@ Python: For backend logic and data analysis.
 Jupyter: Interactive notebook environment.
 [List of libraries]: Visualization and data analysis libraries: Matplotlib, Pandas, seaborns
 
-## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
